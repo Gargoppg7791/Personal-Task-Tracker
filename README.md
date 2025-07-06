@@ -26,6 +26,9 @@ A feature-rich task management application built with **React**, **Tailwind CSS*
 ![Screenshot1 png](https://github.com/user-attachments/assets/ac944d25-1298-461c-9c1a-e87bd543c0c3)
 
 
+## live url of project
+https://personal-task-tracker-mocha.vercel.app/
+
 
 ---
 
