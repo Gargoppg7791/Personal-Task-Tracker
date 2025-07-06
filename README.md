@@ -22,7 +22,10 @@ A feature-rich task management application built with **React**, **Tailwind CSS*
 
 ## 📸 Screenshots
 
-> Include some images of the app (optional)
+![Screenshot png](https://github.com/user-attachments/assets/ea46036c-cfa1-46c2-942b-7931796a43d1)
+![Screenshot1 png](https://github.com/user-attachments/assets/ac944d25-1298-461c-9c1a-e87bd543c0c3)
+
+
 
 ---
 
