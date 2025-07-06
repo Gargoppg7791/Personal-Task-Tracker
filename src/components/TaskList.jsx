@@ -3,7 +3,11 @@ import TaskItem from './TaskItem';
 
 export default function TaskList({ tasks, onToggleComplete, onDeleteTask, onEditTask }) {
   if (tasks.length === 0) {
-    return <p className="text-gray-500">No tasks found.</p>;
+    return (
+      <p className="text-gray-500 dark:text-gray-400 text-center mt-4">
+        No tasks found.
+      </p>
+    );
   }
 
   return (
@@ -14,7 +18,7 @@ export default function TaskList({ tasks, onToggleComplete, onDeleteTask, onEdit
           task={task}
           onToggleComplete={onToggleComplete}
           onDeleteTask={onDeleteTask}
-          onEditTask={onEditTask} 
+          onEditTask={onEditTask}
         />
       ))}
     </div>
